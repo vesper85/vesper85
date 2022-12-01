@@ -5,6 +5,7 @@
 - 🔭 I have project experience with MNT and MERN stack, Android development, C++, Java, Javascript, Python and Blockchain development
 - 📝 I like to study Cybersecurity, Networking, DSA, OS, DBMS and core subjects of Computer Science
 - 👯 You can contact me at [utkarshdeshmukh98@gmail.com][email]
+- ⚡ The project you are looking for is private 👅
 
 ### Connect with me:
 
